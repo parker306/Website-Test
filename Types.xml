@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<type>
+		<id>A</id>
+		<name>Cardiovascular</name>
+	</type>
+	<type>
+		<id>D</id>
+		<name>Lymphatics</name>
+	</type>
+	<type>
+		<id>E</id>
+		<name>Nervous</name>
+	</type>
+	<type>
+		<id>F</id>
+		<name>Musculoskeletal</name>
+	</type>
+	<type>
+		<id>G</id>
+		<name>Gastro-intestinal</name>
+	</type>
+	<type>
+		<id>K</id>
+		<name>Skin</name>
+	</type>
+	<type>
+		<id>J</id>
+		<name>Renal</name>
+	</type>
+	<type>
+		<id>L</id>
+		<name>Respiratory</name>
+	</type>
+	<type>
+		<id>N</id>
+		<name>Female Reproduction</name>
+	</type>
+	<type>
+		<id>O</id>
+		<name>Male Reproduction</name>
+	</type>
+	<type>
+		<id>R</id>
+		<name>Endocrine</name>
+	</type>
+	<type>
+		<id>S</id>
+		<name>Eye</name>
+	</type>
+	<type>
+		<id>X</id>
+		<name>Trauma</name>
+	</type>
+</types>
